@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Node backend devolopment**
 
-- 💬 Ask me about **HTML , CSS, javaScript , Express , MongoDB**
+- 💬 Ask me about **HTML , CSS, javaScript , Express , MongoDB , SQL ,Node JS ,DSA ,REACT**
 
 - 🌱 I’m currently learning **Node,Express,MongoDB**
 - 👨‍💻 All of my projects are available at **https://sourabhkt1997.github.io/**
